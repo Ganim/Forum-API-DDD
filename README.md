@@ -1,4 +1,4 @@
-# IGNITE - DDD
+# Fórum API - DDD
 
 Este repositório possui os arquivos desenvolvidos no módulo de estudo sobre Domain Driven Design (DDD) do ignite da rockeatseat. 
 
